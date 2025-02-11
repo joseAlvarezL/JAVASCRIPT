@@ -1,0 +1,14 @@
+- OOP - object oriented programming
+- POO:  Objeto: Representa uma entidade.
+	Propriedade: Descreve o objeto (dados).
+	Método: Define ações que o objeto pode realizar (funções).
+- Nós pegamos essas varáveis e agrupamos essas variáveis dentro de um Objeto (let < object)
+- Uma Factory é uma função que cria e retorna objetos, permitindo criar múltiplas instâncias com a mesma estrutura.
+- Factory é nada mais que uma indútria que cria objetos para você
+- Podemos colocar Objetos semelhantes dentro um grupo chamado Factory (let < object < factory)
+- return é usado para retornar um valor de uma função, terminando sua execução e enviando o resultado.
+- Constructor: É uma função usada dentro de uma classe para criar e inicializar objetos. Normalmente, é chamada com a palavra-chave
+- Constructor não precisa colocar dentro o return e nem o nome do objeto - deixe as letras Maisculas
+- Garbage Collector é nada mais que uma feather(facilidade) do JavaScript, onde vc não precisa configurar a reserve de memória para uma variável
+- Os Objetos Built-in são aquelas funções e objetos prontos que o JavaScript oferece para facilitar seu trabalho(array, Date,Math and String.) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
+- O String objeto é usado para representar e manipular um sequência de caracteres.

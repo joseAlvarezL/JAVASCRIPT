@@ -1,0 +1,16 @@
+- JavaScript (linguagem de programação, também chamada de scripting)  
+- HTML, CSS (Static), JavaScript (Dynamic)  
+- JavaScript é chamado de Client-Side Programming Language (executa no lado do cliente e não no lado do servidor).  
+- IDE (Integrated Development Environment)  
+- Node.js (Node.js é um runtime JavaScript para servidor.)  
+- Console do navegador (JS, mostra a linha do código).  
+- Tipos de variável - primitivo: números, caracteres, booleano, null, undefined.  
+- Tipos de variável - referência: objeto (um grupo de informações referentes a uma coisa só), arrays (armazenam uma lista de itens em uma única variável) (numeração do console array ou lista e o índice do meu array: 0, 1, 2, 3, ...), functions (parâmetros e argumentos; você pode usá-las várias vezes, como em um cálculo, apenas chamando a função).  
+- JS é dinâmico - não precisa definir o tipo de uma variável como no Java.  
+- Live Server (Extensão VS Code) sobe um mini servidor na sua máquina.  
+- O nome da variável tem que ter um significado.  
+- Use Camel Case (primeira letra da variável minúscula, e a segunda maiúscula, assim por diante).  
+- JavaScript é case sensitive (letras maiúsculas e minúsculas são importantes).  
+- `let` permite alterar o valor, enquanto `const` não.  
+- ASI - feature do JavaScript (automaticamente coloca ponto e vírgula `;`).  
+- Dot notation serve para alterar a propriedade de um objeto.

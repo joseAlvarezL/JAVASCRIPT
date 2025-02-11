@@ -1,0 +1,11 @@
+- total++ (vai imprimir o total o nao mostrar o ++) total (agora vai mostrar o total ja com o ++)
+- = (operador de atruibuição, ele poder vir com um operador matematico, exemplo: +=20 or *=20)
+- Operadores de comparação em JavaScript são usados para comparar valores e retornam true ou false.
+- === (verifica o valor e o tipo da variavel, estrito - strict)
+- == (verifica so o valor, nao e tao estrito - lose)
+- operador ternario (condição ? expressão1 : expressão2;)
+- operadores logicos (and = e - && / or = ou - || / not = nao - !)
+- Precedência é a ordem em que operadores são avaliados em uma expressão.
+- switch(troca) e dentro do switch vc tem varios case, baseado na variavel
+- for(variavel   condicao   incremento) (i = 0; i<10; i++)
+- while(condicao)
